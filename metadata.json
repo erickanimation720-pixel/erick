@@ -1,0 +1,5 @@
+{
+  "name": "Copy of KakumaVEO Studio – Kids Cartoon Maker",
+  "description": "An application to generate short, animated cartoon videos for kids from a script using Gemini's VEO model. Users can specify project details, language, voice gender, and a scene script to create a demo video.",
+  "requestFramePermissions": []
+}
